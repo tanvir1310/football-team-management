@@ -1,0 +1,11 @@
+G:\Football-Team-Management\FTM\bin\Debug\FTM.exe.config
+G:\Football-Team-Management\FTM\bin\Debug\FTM.exe
+G:\Football-Team-Management\FTM\bin\Debug\FTM.pdb
+G:\Football-Team-Management\FTM\obj\Debug\FTM.csproj.AssemblyReference.cache
+G:\Football-Team-Management\FTM\obj\Debug\FTM.csproj.SuggestedBindingRedirects.cache
+G:\Football-Team-Management\FTM\obj\Debug\FTM.Form1Login.resources
+G:\Football-Team-Management\FTM\obj\Debug\FTM.Properties.Resources.resources
+G:\Football-Team-Management\FTM\obj\Debug\FTM.csproj.GenerateResource.cache
+G:\Football-Team-Management\FTM\obj\Debug\FTM.csproj.CoreCompileInputs.cache
+G:\Football-Team-Management\FTM\obj\Debug\FTM.exe
+G:\Football-Team-Management\FTM\obj\Debug\FTM.pdb
