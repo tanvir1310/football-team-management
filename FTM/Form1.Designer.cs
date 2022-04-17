@@ -37,7 +37,6 @@
             this.textPassword = new System.Windows.Forms.TextBox();
             this.button1Login = new System.Windows.Forms.Button();
             this.button2Clear = new System.Windows.Forms.Button();
-            this.button2Exit = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label2 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
@@ -50,7 +49,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Franklin Gothic Medium", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label1.Location = new System.Drawing.Point(125, 34);
+            this.label1.Location = new System.Drawing.Point(105, 60);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(305, 29);
             this.label1.TabIndex = 0;
@@ -67,7 +66,6 @@
             // panel2
             // 
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Controls.Add(this.button2Exit);
             this.panel2.Controls.Add(this.button2Clear);
             this.panel2.Controls.Add(this.button1Login);
             this.panel2.Controls.Add(this.textPassword);
@@ -142,18 +140,6 @@
             this.button2Clear.Text = "Clear";
             this.button2Clear.UseVisualStyleBackColor = false;
             // 
-            // button2Exit
-            // 
-            this.button2Exit.BackColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.button2Exit.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2Exit.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button2Exit.Location = new System.Drawing.Point(46, 404);
-            this.button2Exit.Name = "button2Exit";
-            this.button2Exit.Size = new System.Drawing.Size(80, 32);
-            this.button2Exit.TabIndex = 7;
-            this.button2Exit.Text = "Exit";
-            this.button2Exit.UseVisualStyleBackColor = false;
-            // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonFace;
@@ -161,6 +147,7 @@
             this.pictureBox1.Location = new System.Drawing.Point(3, 99);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(361, 275);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -169,7 +156,7 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Franklin Gothic Medium", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.label2.Location = new System.Drawing.Point(159, 63);
+            this.label2.Location = new System.Drawing.Point(139, 89);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(237, 29);
             this.label2.TabIndex = 8;
@@ -201,7 +188,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Button button2Exit;
         private System.Windows.Forms.Button button2Clear;
         private System.Windows.Forms.Button button1Login;
         private System.Windows.Forms.TextBox textPassword;

@@ -9,3 +9,4 @@ G:\Football-Team-Management\FTM\obj\Debug\FTM.csproj.GenerateResource.cache
 G:\Football-Team-Management\FTM\obj\Debug\FTM.csproj.CoreCompileInputs.cache
 G:\Football-Team-Management\FTM\obj\Debug\FTM.exe
 G:\Football-Team-Management\FTM\obj\Debug\FTM.pdb
+G:\Football-Team-Management\FTM\obj\Debug\FTM.Admin.resources
